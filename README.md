@@ -1,5 +1,4 @@
-# UMCFuse: A Unified Multiple Complex Scenes Infrared and Visible Image Fusion Framework (IEEE-TIP 2025)
-
+# UMCFuse: A Unified Multiple Complex Scenes Infrared and Visible Image Fusion Framework
 ![Workflow](https://github.com/ixilai/UMCFuse/blob/master/liucheng.jpg)
 
 UMCFuse is a **unified framework** for **infrared and visible image fusion (IVIF)** in **complex scenes**, including haze, rain, snow, overexposure, fire, and noisy environments. It effectively integrates multi-modal information, preserves fine details, suppresses noise, and enhances scene understanding for downstream tasks such as **object detection**, **semantic segmentation**, and **salient object detection**.
