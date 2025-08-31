@@ -93,8 +93,6 @@ UMCFuse enhances feature representation for tasks such as:
 ---
 ## 🚀 Usage
 
-## 🚀 Usage
-
 The following demonstrates how to run **UMCFuse** on infrared and visible image pairs using the provided MATLAB demo.
 
 ### 1️⃣ Prerequisites
