@@ -1,4 +1,4 @@
-# UMCFuse: A Unified Multiple Complex Scenes Infrared and Visible Image Fusion Framework
+# UMCFuse: A Unified Multiple Complex Scenes Infrared and Visible Image Fusion Framework (IEEE-TIP 2025)
 
 ![Workflow](https://github.com/ixilai/UMCFuse/blob/master/liucheng.jpg)
 
