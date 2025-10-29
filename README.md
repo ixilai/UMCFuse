@@ -3,6 +3,8 @@
 
 **📄 Paper:** [**[IEEE Xplore]**](https://ieeexplore.ieee.org/abstract/document/11164947)
 
+**📄 Paper:** [**[Arxiv]**](https://arxiv.org/abs/2402.02096)
+
 UMCFuse is a **unified framework** for **infrared and visible image fusion (IVIF)** in **complex scenes**, including haze, rain, snow, overexposure, fire, and noisy environments. It effectively integrates multi-modal information, preserves fine details, suppresses noise, and enhances scene understanding for downstream tasks such as **object detection**, **semantic segmentation**, and **salient object detection**.
 
 ---
