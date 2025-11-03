@@ -10,7 +10,6 @@ UMCFuse is a **unified framework** for **infrared and visible image fusion (IVIF
 <p align="center">
   <strong>
     <span style="font-size:20px;">
-      This work first appeared on <a href="https://arxiv.org/" target="_blank">arXiv</a> on February 3, 2024.<br>
       To the best of our knowledge, it is the 🔥 <span style="color:#e74c3c;">first study</span> 🔥 addressing 
       unified infrared and visible image fusion in complex scenes.
     </span>
